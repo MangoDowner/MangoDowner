@@ -9,3 +9,5 @@
 - 🔭 我现在在做一个末日生存类的独立游戏
 - 📝 我的cnblog博客: [亚楠老猎人](https://www.cnblogs.com/laolieren/)
 - 🧮 我的力扣主页: [珊璞桑](https://leetcode-cn.com/u/bloodborne/)
+
+> 🤔 想知道这样的个人主页怎么做的？[点这里](https://www.zhihu.com/search?type=content&q=%E7%BE%8E%E5%8C%96%20github%20%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5)。
