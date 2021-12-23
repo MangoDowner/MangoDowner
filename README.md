@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MangoDowner.readme)
 
-我是一个练习时长8年半的程序员，喜欢阅读，写文，写代码
+<img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="编程练习生">我是一个练习时长8年半的程序员，喜欢阅读，写文，写代码
 
 ![info](https://github-readme-stats.vercel.app/api?username=MangoDowner&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
