@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MangoDowner.readme)
 
-<img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="">I am a programmer with eight and a half years of experience. I enjoy reading, writing, and programming.
+<img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="">I am a programmer with ten years of experience. I enjoy reading, writing, and programming.
 
 ![info](https://github-readme-stats.vercel.app/api?username=MangoDowner&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
